@@ -1,0 +1,1 @@
+while writing data into a file closing that file is important
